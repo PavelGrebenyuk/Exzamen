@@ -1,0 +1,40 @@
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ir130grebenyuk\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Экзамен ПМ 02.05\Сессия 3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

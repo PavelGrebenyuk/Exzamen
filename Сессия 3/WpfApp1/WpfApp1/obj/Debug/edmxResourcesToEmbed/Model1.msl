@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище АбонентыModelContainer" CdmEntityContainer="АбонентыEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="АбонентыModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Абоненты">
+      <EntityTypeMapping TypeName="АбонентыModel.Абоненты">
+        <MappingFragment StoreEntitySet="Абоненты">
+          <ScalarProperty Name="IDАбонента" ColumnName="IDАбонента" />
+          <ScalarProperty Name="Номер_Абонента" ColumnName="Номер_Абонента" />
+          <ScalarProperty Name="ФИО_абонента" ColumnName="ФИО_абонента" />
+          <ScalarProperty Name="Адрес" ColumnName="Адрес" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Разговоры">
+      <EntityTypeMapping TypeName="АбонентыModel.Разговоры">
+        <MappingFragment StoreEntitySet="Разговоры">
+          <ScalarProperty Name="idРазговора" ColumnName="idРазговора" />
+          <ScalarProperty Name="Номер_Разговора" ColumnName="Номер_Разговора" />
+          <ScalarProperty Name="Дата_Разговора" ColumnName="Дата_Разговора" />
+          <ScalarProperty Name="Продолжительность" ColumnName="Продолжительность" />
+          <ScalarProperty Name="idТарифа" ColumnName="idТарифа" />
+          <ScalarProperty Name="idТелефона" ColumnName="idТелефона" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Тарифы">
+      <EntityTypeMapping TypeName="АбонентыModel.Тарифы">
+        <MappingFragment StoreEntitySet="Тарифы">
+          <ScalarProperty Name="IdТарифа" ColumnName="IdТарифа" />
+          <ScalarProperty Name="Код_Города" ColumnName="Код_Города" />
+          <ScalarProperty Name="Название_Города" ColumnName="Название_Города" />
+          <ScalarProperty Name="Тариф_Стоимость_1_мин" ColumnName="Тариф_Стоимость_1_мин" />
+          <ScalarProperty Name="Признак_оплаты" ColumnName="Признак_оплаты" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Телефоны">
+      <EntityTypeMapping TypeName="АбонентыModel.Телефоны">
+        <MappingFragment StoreEntitySet="Телефоны">
+          <ScalarProperty Name="IdТелефона" ColumnName="IdТелефона" />
+          <ScalarProperty Name="Номер_Телефона" ColumnName="Номер_Телефона" />
+          <ScalarProperty Name="Номер_договора" ColumnName="Номер_договора" />
+          <ScalarProperty Name="Дата_Установки_телефона" ColumnName="Дата_Установки_телефона" />
+          <ScalarProperty Name="idАбонента" ColumnName="idАбонента" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
