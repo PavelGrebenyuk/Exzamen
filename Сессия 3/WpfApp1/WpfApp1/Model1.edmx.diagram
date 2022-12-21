@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b814d1b3a2664b4fa41da44896808b17" Name="Diagram1">
+        <EntityTypeShape EntityType="АбонентыModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="АбонентыModel.Абоненты" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="АбонентыModel.Разговоры" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="АбонентыModel.Тарифы" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="АбонентыModel.Телефоны" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="АбонентыModel.FK_Телефоны_Абоненты" ManuallyRouted="false" />
+        <AssociationConnector Association="АбонентыModel.FK_Разговоры_Тарифы" ManuallyRouted="false" />
+        <AssociationConnector Association="АбонентыModel.FK_Разговоры_Телефоны" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
